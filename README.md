@@ -1,3 +1,6 @@
 # AI-algorithm-Analysis
-Dlib, MTCNN, haarCasecade, Deepface
-zzz
+Dlib, MTCNN, haarCasecade, Deepface 
+의 4 알고리즘의 간단한 원리를 설명하고 장단점과 각 알고리즘의 속도비교를 한다.
+속도비교는 속도의 오차를 고려하여 총 10회 테스트한 평균속도를 사용하여 비교한다.
+속도비교 방법으로는 전처리문 아래의 시간을 측정하고 찾을 얼굴 이미지를 출력하는 코드 다음의 시간을 측정하여 뺀 시간을 사용한다.
+
